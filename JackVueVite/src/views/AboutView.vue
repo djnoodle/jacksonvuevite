@@ -1,5 +1,11 @@
-<template>
-    <p>Detta är about page</p>
-  </template>
+<script setup>
+import CounterButton from "../components/CounterButton.vue";
+</script>
 
-  <style></style>
+<template>
+  <div class="centered">
+    <CounterButton />
+  </div>
+</template>
+
+<style scoped></style>

@@ -1,5 +1,9 @@
-<script setup></script>
+<script setup>
+import MyForm from "../components/MyForm.vue";
+</script>
 
 <template>
-  <main></main>
+  <main>
+    <MyForm />
+  </main>
 </template>

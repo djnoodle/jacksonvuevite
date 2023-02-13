@@ -1,6 +1,17 @@
-body{
-    box-sizing: border-box;
-    margin:0;
-    padding:0;
-    overflow-x: hidden;
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
 }
+
+.centered {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  padding-top: 10rem;
+  color: black;
+}
+
+

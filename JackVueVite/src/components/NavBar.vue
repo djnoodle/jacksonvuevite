@@ -37,7 +37,7 @@ import { RouterLink, RouterView } from "vue-router";
               >
             </li>
             <li class="nav-item ">
-              <RouterLink class="nav-link" to="/about">Om oss</RouterLink>
+              <RouterLink class="nav-link" to="/counter">Counter</RouterLink>
             </li>
           </ul>
         </div>

@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "PruductName": "Musplatta",
+        "Pris": 100
+
+    },
+    {
+        "id": 2,
+        "PruductName": "tangentbord",
+        "Pris": 200
+    },
+    {
+        "id": 3,
+        "PruductName": "ps4",
+        "Pris": 300
+    },
+    {
+        "id": 4,
+        "PruductName": "ps5",
+        "Pris": 400
+    },
+    {
+        "id": 5,
+        "PruductName": "frys",
+        "Pris": 500
+    },
+    {
+        "id": 6,
+        "PruductName": "kyl",
+        "Pris": 600
+    },
+    {
+        "id": 7,
+        "PruductName": "tv",
+        "Pris": 700
+    },
+    {
+        "id": 8,
+        "PruductName": "skärm",
+        "Pris": 800
+    },
+    {
+        "id": 9,
+        "PruductName": "laptop",
+        "Pris": 900
+    },
+    {
+        "id": 10,
+        "PruductName": "Hela datorn",
+        "Pris": 1000
+    }
+]

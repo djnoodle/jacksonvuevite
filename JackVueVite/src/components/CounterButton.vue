@@ -20,7 +20,7 @@ export default {
 </script>
 
 <template>
-    <h1>Coockie clicker v2</h1>
+  <h1>Coockie clicker v2</h1>
   <p><button @click="incrementValue">Increment Value</button></p>
   <p><button @click="decrementValue">Decrement Value</button></p>
   <p><button @click="resetValue">Reset Value</button></p>

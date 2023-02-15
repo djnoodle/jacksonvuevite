@@ -21,7 +21,7 @@ import { RouterLink, RouterView } from "vue-router";
         aria-labelledby="offcanvasNavbarLabel"
       >
         <div class="offcanvas-header">
-          <h5 class="offcanvas-title " id="offcanvasNavbarLabel">TradeX</h5>
+          <h5 class="offcanvas-title" id="offcanvasNavbarLabel">TradeX</h5>
           <button
             type="button"
             class="btn-close"
@@ -36,7 +36,7 @@ import { RouterLink, RouterView } from "vue-router";
                 >Hem</RouterLink
               >
             </li>
-            <li class="nav-item ">
+            <li class="nav-item">
               <RouterLink class="nav-link" to="/counter">Counter</RouterLink>
             </li>
           </ul>

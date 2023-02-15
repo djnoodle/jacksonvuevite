@@ -6,7 +6,7 @@ export default {
     const name = ref("");
     const el = ref();
     const submitForm = () => {
-      console.log(`Form submitted! Name = ${name.value}`);
+      console.log(`Formuläret Inskickad! Namn = ${name.value}`);
     };
 
     onMounted(() => {
@@ -26,7 +26,7 @@ export default {
   <div class="centered">
     <div id="input">
       <h1>Hej {{ name }}</h1>
-      <input ref="el" type="text" placeholder="Namn" v-model="name "/>
+      <input ref="el" type="text" placeholder="Namn" v-model="name" />
       <div>
         <button @click="submitForm" :disabled="name.length <= 1">Submit</button>
       </div>
